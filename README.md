@@ -53,8 +53,6 @@ This analysis aims to:
 
 ```
 📦 data-analysis-forbes-billionaires
-├── data/
-│ └── forbes_billionaires_1997_2024.csv
 ├── Data-analysis-project.ipynb
 └── README.md
 ```
